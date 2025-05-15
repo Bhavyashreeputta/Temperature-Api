@@ -2,7 +2,7 @@
 
 
  ## :octocat: Project GitHub Links:
-- <a href="https://github.com/appuabhishek/counterfeit-medicine">Counterfeit Medicine Authentication System </a>
+- <a href="https://github.com/Bhavyashreeputta/Counterfeit-Medicine-Authentication-System.git">Counterfeit Medicine Authentication System </a>
 
 
 ## ⏯️ Explanation + Demo Video(click image)
